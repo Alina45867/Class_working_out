@@ -1,0 +1,40 @@
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\bin\Debug\Lab5.exe.config
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\bin\Debug\Lab5.exe
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\bin\Debug\Lab5.pdb
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.exe
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.pdb
+Z:\БИСТ-20-1\Фам Анастасия\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+E:\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+E:\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+E:\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+E:\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+E:\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+E:\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Lab5\Lab5\obj\Debug\Lab5.pdb
+E:\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Анастасия\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Анастасия\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Анастасия\Desktop\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Анастасия\Desktop\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\asus\Downloads\Алине3\BIST_20_1_Fam_AT_LV_5_1\Lab5\Lab5\obj\Debug\Lab5.pdb
